@@ -1,0 +1,54 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "company_name": "Acme Manufacturing GmbH",
+    "contract_tier": "Premium",
+    "contract_start": "2024-03-01",
+    "contract_end": "2026-02-28",
+    "storage_quota_m3": 5000,
+    "storage_used_m3": 4620,
+    "climate_controlled": true,
+    "account_manager": "Lena Fischer",
+    "outstanding_invoice_eur": 0.0,
+    "payment_status": "current"
+  },
+  {
+    "customer_id": "CUST-002",
+    "company_name": "Brightline Pharma S.A.",
+    "contract_tier": "Enterprise",
+    "contract_start": "2023-09-15",
+    "contract_end": "2026-09-14",
+    "storage_quota_m3": 12000,
+    "storage_used_m3": 8300,
+    "climate_controlled": true,
+    "account_manager": "Marco Rossi",
+    "outstanding_invoice_eur": 18450.75,
+    "payment_status": "current"
+  },
+  {
+    "customer_id": "CUST-003",
+    "company_name": "Nordic Furniture AB",
+    "contract_tier": "Standard",
+    "contract_start": "2025-01-10",
+    "contract_end": "2026-01-09",
+    "storage_quota_m3": 2000,
+    "storage_used_m3": 2010,
+    "climate_controlled": false,
+    "account_manager": "Sofia Lind",
+    "outstanding_invoice_eur": 9200.0,
+    "payment_status": "overdue"
+  },
+  {
+    "customer_id": "CUST-004",
+    "company_name": "Helios Electronics Ltd",
+    "contract_tier": "Premium",
+    "contract_start": "2024-11-01",
+    "contract_end": "2026-10-31",
+    "storage_quota_m3": 3500,
+    "storage_used_m3": 2750,
+    "climate_controlled": true,
+    "account_manager": "Lena Fischer",
+    "outstanding_invoice_eur": 0.0,
+    "payment_status": "current"
+  }
+]

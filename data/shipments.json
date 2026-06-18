@@ -1,0 +1,9 @@
+[
+  {"shipment_id": "SH-1042", "customer_id": "CUST-001", "status": "In Transit", "origin": "Hamburg DC", "destination": "Munich Plant", "items": 320, "dispatched": "2026-06-15", "eta": "2026-06-19"},
+  {"shipment_id": "SH-1043", "customer_id": "CUST-001", "status": "Delivered", "origin": "Hamburg DC", "destination": "Stuttgart Hub", "items": 110, "dispatched": "2026-06-10", "eta": "2026-06-12"},
+  {"shipment_id": "SH-1051", "customer_id": "CUST-002", "status": "Customs Hold", "origin": "Rotterdam Port", "destination": "Lyon DC", "items": 540, "dispatched": "2026-06-14", "eta": "2026-06-20"},
+  {"shipment_id": "SH-1052", "customer_id": "CUST-002", "status": "At Warehouse", "origin": "Lyon DC", "destination": "Barcelona Plant", "items": 200, "dispatched": null, "eta": null},
+  {"shipment_id": "SH-1060", "customer_id": "CUST-003", "status": "Delayed", "origin": "Gothenburg DC", "destination": "Oslo Store", "items": 75, "dispatched": "2026-06-13", "eta": "2026-06-21"},
+  {"shipment_id": "SH-1071", "customer_id": "CUST-004", "status": "In Transit", "origin": "Hamburg DC", "destination": "Amsterdam Hub", "items": 410, "dispatched": "2026-06-16", "eta": "2026-06-18"},
+  {"shipment_id": "SH-1072", "customer_id": "CUST-004", "status": "Delivered", "origin": "Hamburg DC", "destination": "Brussels DC", "items": 95, "dispatched": "2026-06-09", "eta": "2026-06-11"}
+]
