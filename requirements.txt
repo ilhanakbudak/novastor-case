@@ -1,0 +1,26 @@
+# Core
+pydantic>=2
+pydantic-settings>=2
+
+# Ingestion
+langchain-core
+langchain-text-splitters
+pypdf
+
+# Embeddings + vector store
+langchain-chroma
+chromadb
+langchain-huggingface       # local embeddings (offline)
+sentence-transformers
+
+# LLM (install the provider you use)
+langchain-openai
+# langchain-anthropic
+# langchain-ollama
+
+# Agent
+langgraph
+
+# API
+fastapi
+uvicorn[standard]
